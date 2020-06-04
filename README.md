@@ -1,6 +1,4 @@
-# 周记第 001 期 - 200529
-
-记录每周见闻、心得、及值得分享的新鲜事。
+# 每周见闻、心得、及值得分享的事
 
 没错，这是模仿[阮一峰](https://github.com/ruanyf)老师的 [weekly](https://github.com/ruanyf/weekly) 周刊的。
 
