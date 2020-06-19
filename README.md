@@ -12,5 +12,5 @@ github 是个好东西，用的好不但省心、省力、还省钱。
 
 ## 索引
 
-[第 001 期](https://github.com/gukt/weekly/blob/master/docs/week-001.md) | [第 002 期](https://github.com/gukt/weekly/blob/master/docs/week-002.md)| [第 003 期](https://github.com/gukt/weekly/blob/master/docs/week-003.md)
+[第 001 期](https://github.com/gukt/weekly/blob/master/docs/week-001.md) | [第 002 期](https://github.com/gukt/weekly/blob/master/docs/week-002.md) | [第 003 期](https://github.com/gukt/weekly/blob/master/docs/week-003.md) | [第 004 期](https://github.com/gukt/weekly/blob/master/docs/week-004.md)
 
