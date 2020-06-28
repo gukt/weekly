@@ -12,9 +12,9 @@
 
 这是我看到的最深入浅出把"JavaScript 继承机制"讲的清晰透彻的文章，另外[阮老师](http://www.ruanyifeng.com/blog/)还写了几篇关于 Javascript 面向对象编程系列：
 
-- [Javascript 面向对象编程（一）：封装](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
-- [Javascript面向对象编程（二）：构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html)
-- [Javascript面向对象编程（三）：非构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)
+- [JavaScript 面向对象编程（一）：封装](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
+- [JavaScript面向对象编程（二）：构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html)
+- [JavaScript面向对象编程（三）：非构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)
 
 2、[技术] [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
